@@ -51,7 +51,7 @@ University-Management-Database/
 │   ├── schema-and-data.sql
 │   └── queries.sql
 └── docs/
-    └── Final-Report-Team-Project-1.pdf
+    └── PROJECT-NOTES.md
 ```
 
 ## Running the Project
@@ -61,10 +61,11 @@ The SQL is written for **Oracle Database / Oracle APEX**.
 1. Open Oracle SQL Developer, SQLcl, or Oracle APEX SQL Workshop.
 2. Run `sql/schema-and-data.sql` to create the schema and insert the sample records.
 3. Run queries from `sql/queries.sql` to explore the database.
+4. See `docs/PROJECT-NOTES.md` for the design summary, business rules, EER/3NF overview, and Oracle APEX validation notes.
 
 ## Academic Scope
 
-This repository preserves the original academic project and demonstrates relational data modeling and SQL skills. It is intended as a portfolio and learning artifact rather than a production university information system.
+This repository preserves the academic project and demonstrates relational data modeling and SQL skills. It is intended as a portfolio and learning artifact rather than a production university information system.
 
 ## Author
 
